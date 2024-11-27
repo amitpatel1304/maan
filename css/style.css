@@ -27,8 +27,11 @@
   font-size: 6rem;
 }
 
-.header-content p {
+.header-content p,span {
   font-size: 2rem;
+  justify-content: center;
+  align-items: center;
+  margin-left: 2px;
 }
 
 #blinking-button {
